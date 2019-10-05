@@ -17,7 +17,7 @@ public class AddingMachine
 	
 	public void add (int value) 
 	{
-		
+		System.out.println("kek");
 	}
 	
 	public void subtract (int value) 
