@@ -8,7 +8,7 @@ public class AddingMachine
 	public AddingMachine () 
 	{
 		total = 0;  // not needed - included for clarity
-	}//
+	}
 	
 	public int getTotal ()
 	{
