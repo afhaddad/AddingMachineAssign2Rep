@@ -7,7 +7,7 @@ package cse360assign2;
 
 /**
  * Adding Machine is designed to be a very simple calculator that can add and subtract values.
- * It also keeps a history of tha values entered through this class.
+ * It also keeps a history of the values entered through this class.
  * @author Albert Haddad
  *
  */
