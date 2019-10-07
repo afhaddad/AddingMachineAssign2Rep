@@ -1,7 +1,7 @@
 /**
  * Albert Haddad
  * 1213104332 Seat#RA3
- * Assignment 1
+ * Assignment 2
  */
 package cse360assign2;
 
